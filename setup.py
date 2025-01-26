@@ -59,7 +59,7 @@ requirements = [
     "tifffile==0.15.1",
     "torch>=1.0",
     "tqdm",
-    "scikit-image>=0.15.0",
+    "scikit-image=0.15.0",
     "aicsimageio==3.0.7",
 ]
 
